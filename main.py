@@ -26,6 +26,7 @@ app.add_middleware(
         "http://localhost:3001",
         "http://localhost:3002",
         "https://task-management-frontend.vercel.app",
+        "https://task-management-frontend-ten-gray.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
